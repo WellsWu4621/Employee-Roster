@@ -1,0 +1,30 @@
+{
+  "name": "Employee-Roster",
+  "version": "1.0.0",
+  "description": "an App that makes a Roster",
+  "main": "app.js",
+  "directories": {
+    "lib": "lib",
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/WellsWu4621/Employee-Roster.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/WellsWu4621/Employee-Roster/issues"
+  },
+  "homepage": "https://github.com/WellsWu4621/Employee-Roster#readme",
+  "dependencies": {
+    "inquirer": "^8.1.0"
+  },
+  "devDependencies": {
+    "jest": "^27.0.4"
+  }
+}
