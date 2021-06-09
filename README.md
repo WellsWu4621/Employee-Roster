@@ -5,14 +5,14 @@
   This project creates a quick Roster of a team including a Manager, Engineer's, and Interns. and outputs information regarding those team members
 
   ## Table of Contents:  
-  - [Description](#-description)
-  - [Table of Contents](#-table-of-contents)
-  - [Installation](#-installation)
-  - [Usage](#-usage)
-  - [License](#-license)
-  - [Contributing](#-contributing)
-  - [Tests](#-tests)
-  - [Questions](#-questions)
+  - [Description](#description)
+  - [Table of Contents](#table-of-contents)
+  - [Installation](#installation)
+  - [Usage](#usage)
+  - [License](#license)
+  - [Contributing](#contributing)
+  - [Tests](#tests)
+  - [Questions](#questions)
 
   ## Installation:  
   1. go to the Github repo. 2. Clone the repo. 3. install the dependencies. 4. Run with: node app.js in the terminal
