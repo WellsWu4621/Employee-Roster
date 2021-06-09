@@ -83,10 +83,13 @@ const checkMore = () => {
           type: 'list',
           name: 'type',
           message: 'What type of member would you like to add?',
-          choices: ['Engineer', 'Intern']
+          choices: ['Manager', 'Engineer', 'Intern']
         })
           .then(({ type }) => {
             switch (type) {
+              case 'Manager':
+                createManager()
+                break;
               case 'Engineer':
                 createEngineer()
                 break;
